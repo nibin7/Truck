@@ -20,6 +20,6 @@ The file Truck Data Analysis.ipynb contains the Python code for analyzing and vi
   * Calculation of the correlation coefficient between temperature and pressure
   * Histogram of pressure for all tires
 
-#Results
+# Results
 
 The code in Truck Data Analysis.ipynb produces various visualizations and summary statistics of the tire data. These results can be used to identify trends or anomalies in the data, and can inform decisions about tire maintenance or replacement.
